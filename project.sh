@@ -1,1 +1,1 @@
-echo " This is my first git project"
+echo " This is my 2nd git project"
